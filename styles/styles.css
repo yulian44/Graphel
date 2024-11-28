@@ -129,7 +129,7 @@ footer {
 }
 
 
-h2, h3, h4 {
+ h2, h3, h4 {
     margin: 0;
     padding: 0;
 }
@@ -180,19 +180,24 @@ h2, h3, h4 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 1.5vw;
+    padding: 1vw 0.1vw 1vw 0vw;
 }
+
 
 .map-description {
     background-color: rgb(53, 66, 74);
     color: white;
     padding: 1vw;
-    margin:  1vw;
-    width: 90%;
+    margin:  0;
+    width: 24vw;
     height: 16vw;
 }
 .map-description h4{
-    font-size: 2.4vw;
+    font-size: 1.8vw;
+    margin-bottom: 1vw;
+}
+.map-description{
+    font-size: 1.2vw;
 }
 .map-image {
     width: 100%;
@@ -258,10 +263,12 @@ h2, h3, h4 {
 }
 
 .servicios-acerca h4 {
-    font-size: 2.4vw;
+    font-size: 1.8vw;
     margin-bottom: 1vw;
 }
-
+.servicios-acerca p {
+    font-size: 1.2vw;
+}
 
 
 .boletin {
@@ -335,7 +342,7 @@ h2, h3, h4 {
 }
 
 .nosotros-lado {
-    width: 100%;
+    width: 100vw;
     height: 16vw;
     background-color: rgb(53, 66, 74);
     color: white;
