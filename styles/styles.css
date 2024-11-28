@@ -189,7 +189,7 @@ h2, h3, h4 {
     padding: 1vw;
     margin:  1vw;
     width: 90%;
-    height: 12vw;
+    height: 16vw;
 }
 .map-description h4{
     font-size: 2.4vw;
@@ -254,7 +254,7 @@ h2, h3, h4 {
     color: white;
     padding: 1vw;
     border-radius: 2px;
-    height: 12vw;
+    height: 16vw;
 }
 
 .servicios-acerca h4 {
@@ -336,10 +336,10 @@ h2, h3, h4 {
 
 .nosotros-lado {
     width: 100%;
-    height: 14vw;
+    height: 16vw;
     background-color: rgb(53, 66, 74);
     color: white;
-    padding: 2vw;
+    padding: 1vw;
     border-radius: 3px;
 }
 
@@ -350,7 +350,6 @@ h2, h3, h4 {
 
 .nosotros-lado p {
     font-size: 1.2vw;
-    line-height: 1.8;
 }
 .nosotros-texto-img{
     width: 70%;
